@@ -48,4 +48,4 @@ $ virtualenv starting-a-flask-server
 
 Working with Flask is fairly simple. Learn more about Flask below:
 
-- [Start a Flask Server](ttps://github.com/GitauHarrison/notes/blob/master/start_flask_server.md)
+- [Start a Flask Server](https://github.com/GitauHarrison/notes/blob/master/start_flask_server.md)
