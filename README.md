@@ -44,6 +44,9 @@ $ virtualenv starting-a-flask-server
 (starting-a-flask-server)$ flask run
 ```
 
+6. Open the browser and navigate to http://localhost:5000/
+
+
 ## Learn 
 
 Working with Flask is fairly simple. Learn more about Flask below:
